@@ -30,3 +30,7 @@ In the event the API call fails—due to network issues, incorrect API keys, or 
 Overall, this script exemplifies how to combine data retrieval from online sources with data processing and visualization tools to create informative, user-friendly weather reports. It demonstrates important programming concepts such as API interaction, error handling, data manipulation, and graphical data presentation in a cohesive and practical manner.
 
 The modular design of the program also means it can be easily adapted or expanded to include additional weather parameters (like wind speed or atmospheric pressure), or to fetch weather data for other cities. This makes it a versatile tool for both casual users interested in daily weather updates and developers learning how to integrate real-world data into Python applicationS
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/3999a9ce-f737-4458-97c8-b2d1f2028d21)
