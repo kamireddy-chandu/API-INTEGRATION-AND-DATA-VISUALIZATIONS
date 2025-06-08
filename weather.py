@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-api_key = '987106004b82154021206c799447e119'  # Your API key
+api_key = '987106004b82154021206c799447e119'  
 city = 'Hyderabad'
 
 url = f'https://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}&units=metric'
